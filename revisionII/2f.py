@@ -1,0 +1,1 @@
+print(''.join(['G' if i == 'D' else ('D' if i == 'O' else('O' if i =='G' else i))for i in input().upper()])[::-1])

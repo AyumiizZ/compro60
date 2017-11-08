@@ -1,0 +1,1 @@
+print(sum([sum([j for j in range(1,i+1)])+i**2 for i in range(1,21)]))
