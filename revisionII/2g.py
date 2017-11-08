@@ -26,7 +26,7 @@ list = [(-1)**x*(18+x*2) for x in range(11)]
 for x in list:
     print(x, end = ' ')
 print()
-list = [chr(x+ord('A')) for x in range(16)]
+list = [chr(x) for x in range(ord('A'),ord('O')+1)]
 for x in list:
     print(x, end = ' ')
 print()
