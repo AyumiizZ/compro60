@@ -5,7 +5,7 @@ Coding lab solution by AyumiizZ
 
 ### Windows user
 
-__First way__
+__First way (beginner's way: Not recommend)__
 1. Click "Clone or download" (Green button)
 2. Click "Download ZIP"
 3. Unzip and enjoy my solution :)
